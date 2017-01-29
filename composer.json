@@ -1,0 +1,22 @@
+{
+    "name": "awea/twitter_feed",
+    "description": "Simple wrapper to get Twitter user timeline with cached results",
+    "keywords": ["twitter", "feed"],
+    "require": {
+        "php": ">=5.3",
+        "abraham/twitteroauth": "^0.7.2"
+    },
+    "authors": [
+        {
+            "name": "awea",
+            "email": "aweaoftheworld@gmail.com"
+        }
+    ],
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4" : {
+            "Awea\\TwitterFeed\\" : "src"
+        }
+    }
+}
