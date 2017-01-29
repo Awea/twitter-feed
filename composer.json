@@ -2,6 +2,7 @@
     "name": "awea/twitter_feed",
     "description": "Simple wrapper to get Twitter user timeline with cached results",
     "keywords": ["twitter", "feed"],
+    "licence": "LGPL",
     "require": {
         "php": ">=5.3",
         "abraham/twitteroauth": "^0.7.2"
