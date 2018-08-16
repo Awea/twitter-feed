@@ -1,10 +1,9 @@
 # TwitterFeed
-
-Simple PHP wrapper to get an User feed.
+A simple wrapper to get Twitter user timeline with cached results.
 
 ## Installation
 
-`composer require awea/twitter_feed`
+`composer require awea/twitter-feed`
 
 ## Usage
 
